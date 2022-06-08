@@ -21,9 +21,14 @@ Creating and moderating - in purpose for this module have been used a Visual Stu
     *Commands in VSCode Terminal after uploding the files
         -npm install
         -npm start
+    
         
 After this steps  MondoDB server need to be already connected with the website which is available on - http://localhost:3001/ in any internet browser
- 
+
+your package.json have to got installed the same packages as the picture bellow 
+![Screenshot](Screenshot5.png)
+
+
 # Web application files and related connections
   
   1. Controllers
