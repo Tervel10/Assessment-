@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Title and Cover Page
 
 
@@ -63,5 +64,4 @@
 
 ```js
     
-
-```
+=======
